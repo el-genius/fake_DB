@@ -230,5 +230,38 @@
         "bs": "target end-to-end models"
       }
     }
+  ],
+  "albums":
+  [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "quidem molestiae enim"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "sunt qui excepturi placeat culpa"
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "title": "quam nostrum impedit mollitia quod et dolor"
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "consequatur autem doloribus natus consectetur"
+    },
+    {
+      "userId": 3,
+      "id": 5,
+      "title": "repudiandae voluptatem optio est consequatur rem in temporibus et"
+    },
+    {
+      "userId": 3,
+      "id": 6,
+      "title": "et rem non provident vel ut"
+    },
   ]
 }
