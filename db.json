@@ -231,8 +231,7 @@
       }
     }
   ],
-  "albums":
-  [
+  "albums":[
     {
       "userId": 1,
       "id": 1,
